@@ -115,6 +115,18 @@ onDisposed:{ print("dosposed")
 )
 .disposed(by: disposeBag)
 
+print("----create2---")
+Observable.deferred {
+    Observable.of(1,2,3)
+}
+.subscribe {
+    print($0)
+}
+.disposed(by: disposeBag)
+
+
+
+
 
 
 
