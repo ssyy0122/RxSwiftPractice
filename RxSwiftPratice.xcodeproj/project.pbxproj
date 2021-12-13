@@ -29,6 +29,7 @@
 		E875D9402764E41000733EF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E875D9422764E41000733EF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E875D9482764E4ED00733EF3 /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		E875D9492767210F00733EF3 /* Traits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Traits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 		E875D9282764E41000733EF3 = {
 			isa = PBXGroup;
 			children = (
+				E875D9492767210F00733EF3 /* Traits.playground */,
 				E875D9482764E4ED00733EF3 /* Observable.playground */,
 				E875D9332764E41000733EF3 /* RxSwiftPratice */,
 				E875D9322764E41000733EF3 /* Products */,
